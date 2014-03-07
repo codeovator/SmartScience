@@ -12,3 +12,8 @@
 #actionList {
 	clear: both;
 }
+.circular {
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}
